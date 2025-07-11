@@ -1,0 +1,11 @@
+git status: git status will provide info about where are we located among the git stages.
+
+   command: git status
+      
+[root@ip-172-31-14-178 devops-repo]# git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
