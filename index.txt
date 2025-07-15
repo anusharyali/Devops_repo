@@ -1,0 +1,21 @@
+username: trainercloud2023
+Token: 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
+
+[root@ip-172-31-14-178 ~]# git clone https://github.com/trainercloud2023/aws-automation-repo.git
+Cloning into 'aws-automation-repo'...
+Username for 'https://github.com': trainercloud2023
+Password for 'https://trainercloud2023@github.com':
+remote: Enumerating objects: 21, done.
+remote: Counting objects: 100% (21/21), done.
+remote: Compressing objects: 100% (16/16), done.
+remote: Total 21 (delta 5), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (21/21), 8.33 KiB | 8.33 MiB/s, done.
+Resolving deltas: 100% (5/5), done.
+[root@ip-172-31-14-178 ~]#
+
+[root@ip-172-31-14-178 aws-automation-repo]# git remote -v
+origin  https://github.com/trainercloud2023/aws-automation-repo.git (fetch)
+origin  https://github.com/trainercloud2023/aws-automation-repo.git (push)
+[root@ip-172-31-14-178 aws-automation-repo]# 
+
+
