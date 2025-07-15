@@ -1,3 +1,1 @@
-This is a sample file, writing to test git push pull merge fetch and all other operations
-
-
+This is a sample file, writing to test git push pull merge fetch and all other operation
